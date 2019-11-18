@@ -1,0 +1,7 @@
+[submodule "sub_two"]
+	path = sub_two
+	url = https://github.com/LukchoZloto/sub_two
+[submodule "sub_one"]
+	path = sub_one
+	url = https://github.com/LukchoZloto/sub_one
+ 
